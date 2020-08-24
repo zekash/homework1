@@ -1,0 +1,16 @@
+h1{
+  font-variant:small-caps;
+    }
+<h1>small cap variant</h1>
+
+header{
+	background: #b3b3b3;
+	text-align: center;
+}
+nav{
+	background: ;
+	text-align: left;
+}
+  aside{
+  display: none
+}
